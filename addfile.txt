@@ -1,0 +1,4 @@
+first action:add one file
+add one new line
+add the forth line
+remove the third line
